@@ -11,12 +11,16 @@ course_translation = {
     "移動情報ネットワーク特論": "Advanced Mobile Information Networks",
     "ソフトウエア構成論特論": "Software Construction",
     "産業スペシャリスト育成特論": "Training Course for Industrial Specialists",
-    "ブランディング特論": "Branding",
+    "技術・社会システム工学総論": "Science, Technology and Society, General",
+    "コミュニケーション支援特論": "Assistive Technology for Communication",
     "ビジネス英語": "Business English",
-    "位相幾何学": "Topology",
     "地盤防災論": "Geotechnical Disaster Management",
-    "集中日本語０ G": "Intensive Japanese 0"
+    "集中日本語０ G": "Intensive Japanese 0",
+    "西洋言語概説": "Lecture on Western Languages",
+    "自然科学総論Ⅰ": "General Natural Sciences I",
+    "宇宙探査ロボティクス特論": "Space Exploration Robotics"
 }
+
 
 
 
